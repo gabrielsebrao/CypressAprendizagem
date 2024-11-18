@@ -1,0 +1,11 @@
+{
+  "name": "cypressaprendizagem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "gabrielsebrao",
+  "license": "ISC",
+  "description": ""
+}
